@@ -1,0 +1,21 @@
+p, ul {
+    color: #475550;
+    font-size: 16px;
+  }
+  
+  /* Chame class por . e chame id por # */
+  
+  #main-title {
+    color: #0a7e51;
+    font-size: 45px;
+    letter-spacing: -1px;
+    font-weight: 600;
+  }
+  
+  .testimonial-name {
+    color:darkblue;
+  }
+  
+  .picture {
+    border-radius: 100%;
+  }
