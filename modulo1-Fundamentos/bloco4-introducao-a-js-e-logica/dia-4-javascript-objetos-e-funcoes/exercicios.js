@@ -39,5 +39,8 @@ let info = {
       },
     ],
   };
+ /*
+  console.log("O livro favorito de " + leitor.nome + " " + leitor.sobrenome + "se chama " + leitor.livrosFavoritos['0']); 
+ Precisa corrigir o console.log acima */
 
-  console.log("O livro favorito de " + leitor.nome + " " + leitor.sobrenome + "se chama " + leitor.livrosFavoritos['0']);
+ 
