@@ -52,10 +52,3 @@ function changeText() {
 changeText();
 
 //Crie e execute uma função que exiba o conteúdo de todas as tags <p> no console.
-
-function showTags() {
-    let mostrar = 
-
-}
-
-showTags ();
